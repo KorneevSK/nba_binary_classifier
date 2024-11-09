@@ -13,6 +13,8 @@ scikit-learn = "^1.1.2"
 xgboost = "^1.6.1"
 nba-api = "^1.6.1"
 matplotlib = "^3.9.2"
+requests = "^2.32.3"
+beautifulsoup4 = "^4.12.3"
 
 
 [build-system]
